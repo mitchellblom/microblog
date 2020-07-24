@@ -7,3 +7,6 @@
 ### Run migrations: `flask db upgrade`
 
 ### Run tests: `python tests.py`
+
+
+###### Skipping: Ch 10 Email support
